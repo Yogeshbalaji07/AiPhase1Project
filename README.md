@@ -1,17 +1,13 @@
 
----
-
 # Market Basket Insights
 
 ## Table of Contents
-- [Introduction]
-- [Problem Statement]
-- [Design Thinking Process]
-- [Phases of Development]
-- [How to Run the Code]
-- [Dependencies]
-- [Dataset Source and Description]
-- [Submission]
+1.Introduction
+2.Problem Statement
+3.Design Thinking Process
+4.Phases Of Development
+5.Submission
+
 
 ## Introduction
 This project aims to analyze customer purchase behavior using market basket analysis to help a retail business make data-driven decisions. It includes identifying associations between products purchased by customers, optimizing product placements, cross-selling, and creating effective marketing strategies.
@@ -54,9 +50,11 @@ Our approach is customer-centric, focusing on understanding customer preferences
 ## How to Run the Code
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
-3. Run the code by executing [code file name] using [programming language].
+3. Run the code by executing code file name.ipynb using Jupyter NoteBook.
    ```
-   [command to run the code]
+   [Command to run the Code
+   jupyter notebook filename.ipynb]
+ 
    ```
    
 ## Dependencies
@@ -67,8 +65,5 @@ Our approach is customer-centric, focusing on understanding customer preferences
 - Description: This dataset contains transaction records of a retail store, including customer IDs, product IDs, and purchase timestamps. It is used for market basket analysis to discover customer purchase patterns.
 
 ## Submission
-You can access and review this project on GitHub: [Link to GitHub Repository](https://github.com/yourusername/Market-Basket-Insights)
-
+You can access and review this project on GitHub: [Link to GitHub Repository](https://github.com/Yogeshbalaji07/AiPhase1Project.git)
 ---
-
-Replace the placeholders with your actual project details, code instructions, and dependencies. Make sure to provide clear and concise information to help others understand and replicate your work.
